@@ -1,0 +1,7 @@
+http://blog.livedoor.jp/blackwingcat/archives/1761561.html
+around 2070
+
+NPSWF32_32_0_0_465.DLL
+00E3A32F: 42 72
+NPSWF64_32_0_0_465.DLL
+0128FDE7: 42 72
