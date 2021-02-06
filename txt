@@ -7,6 +7,15 @@ copy after installation.
   NPSWF32_32_0_0_465.dll (patched)
   NPSWF64_32_0_0_465.dll (patched)
 
+./FirefoxPortable/App/Firefox/distribution/policies.json
+./FirefoxPortable/App/Firefox64/distribution/policies.json
+{
+  "policies": {
+    "DisableAppUpdate": true,
+    "DontCheckDefaultBrowser": true
+  }
+}
+
 auto load
 regedit 32/64
 /HKEY_LOCAL_MACHINE/SOFTWARE/MozillaPlugins/@adobe.com\/FlashPlayer
