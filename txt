@@ -7,6 +7,11 @@ copy after installation.
   NPSWF32_32_0_0_465.dll (patched)
   NPSWF64_32_0_0_465.dll (patched)
 
+auto load
+regedit 32/64
+/HKEY_LOCAL_MACHINE/SOFTWARE/MozillaPlugins/@adobe.com\/FlashPlayer
+Path=full path/NPSWFxx_32_0_0_465.dll
+
 flash setting&cache
 /Users/*/AppData/Roaming/Macromedia/Flash Player/
 
