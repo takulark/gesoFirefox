@@ -59,7 +59,7 @@ function Client(url) {
 	}
 	if (url.StartsWith("http://") || url.StartsWith("https://"))
 	{
-		return url;
+		return url.s;
 	}
 	return "";
 }
